@@ -58,14 +58,12 @@ a {
     background:transparent;
 }
 
-/* change colours to suit your needs */
 ins {
     background-color:#ff9;
     color:#000;
     text-decoration:none;
 }
 
-/* change colours to suit your needs */
 mark {
     background-color:#ff9;
     color:#000; 
@@ -86,8 +84,7 @@ table {
     border-collapse:collapse;
     border-spacing:0;
 }
-/*1
-/* change border colour to suit your needs */
+
 hr {
     display:block;
     height:1px;
